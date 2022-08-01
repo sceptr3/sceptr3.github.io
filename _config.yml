@@ -7,14 +7,13 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-# url:              http://hyde.getpoole.com
+title:            Reign it All
+tagline:          'detection awesomeness'
+description:      'Making sense of detection engineering to the new kid on the block'
 baseurl:          https://sceptr3.github.io/
 
 author:
-  name:           'Mark Otto'
+  name:           'sceptr3'
 #   url:            sceptr3.github.io
 
 paginate:         5
